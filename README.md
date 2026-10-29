@@ -84,8 +84,8 @@ SolarVista aligns with the following United Nations Sustainable Development Goal
 
 Developed as part of the Smart India Hackathon (SIH) project initiative.
 
-© 2026 Team Sleep Shift. All rights reserved. All content, designs, code, and intellectual property associated with SolarVista are strictly owned by Team Sleep Shift. Unauthorized copying, reproduction, distribution, modification, or use without prior written permission is strictly prohibited.
-
 **SolarVista — AI Powered Rooftop Mapping**
 
 *Turning rooftops into opportunities for a brighter, more sustainable future.* ☀️
+
+© 2026 Team Sleep Shift. All rights reserved. All content, designs, code, and intellectual property associated with SolarVista are strictly owned by Team Sleep Shift. Unauthorized copying, reproduction, distribution, modification, or use without prior written permission is strictly prohibited.
